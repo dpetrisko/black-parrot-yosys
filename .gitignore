@@ -1,0 +1,6 @@
+output.*
+*.rpt
+slpp_all
+*.log
+flist.vcs
+bsg_cadenv

@@ -1,0 +1,6 @@
+[submodule "black-parrot"]
+	path = black-parrot
+	url = https://github.com/black-parrot/black-parrot
+[submodule "synlig"]
+	path = synlig
+	url = https://github.com/chipsalliance/synlig
